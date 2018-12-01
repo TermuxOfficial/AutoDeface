@@ -18,5 +18,6 @@ $ ./deface.sh
 # Metodh
 vuln webdav
 
-# Website Official
+# Website
 https://termuxindonesia.wordpress.com
+https://github.com/TermuxOfficial/AutoDeface/wiki/Auto-Deface-Wiki
